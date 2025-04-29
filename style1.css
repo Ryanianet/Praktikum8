@@ -3,11 +3,11 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f0f2f5;
-    color: #333;
+    color: #ffffff;
 }
 
 header {
-    background-color: #4a90e2;
+    background-color: rgb(55, 55, 55);
     color: white;
     text-align: center;
     padding: 2em 1em;
@@ -15,7 +15,7 @@ header {
 }
 
 nav {
-    background-color: #3b74c5;
+    background-color: black;
     text-align: center;
     padding: 1em 0;
 }
@@ -35,13 +35,13 @@ section {
     max-width: 800px;
     margin: 2em auto;
     padding: 1.5em;
-    background-color: black;
+    background-color: rgb(55, 55, 55);
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
 }
 
 section h2 {
-    border-bottom: 2px solid #ddd;
+    border-bottom: 2px solid #ffffff;
     padding-bottom: 0.5em;
     margin-bottom: 1em;
 }
@@ -51,7 +51,7 @@ ul {
 }
 
 footer {
-    background-color: #4a90e2;
+    background-color: rgb(55, 55, 55);
     color: white;
     text-align: center;
     padding: 1em;
